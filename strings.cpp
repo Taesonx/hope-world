@@ -22,8 +22,6 @@ int main()
             kol++;
         }
     }
-    cout << kol;
-
+    cout << kol << "Congratulations, you're a master ";
 }
-
 
